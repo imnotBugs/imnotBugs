@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Balraj
 ==============================================================================================================================
 
-Full Stack Developer
+MERN Stack Developer
 --------------------
 
-"Hi, I'm Balraj, a passionate full stack developer with a love for crafting seamless web experiences. With expertise in both front-end and back-end technologies, I thrive on designing and building complete web applications that deliver exceptional user interactions. My versatile skill set enables me to understand the entire development process, allowing me to tackle complex challenges and deliver end-to-end solutions for web-based projects. Let's collaborate and create something amazing together!"
+"Hi, I'm Balraj, a passionate MERN stack developer with a love for crafting seamless web experiences. With expertise in both front-end and back-end technologies, I thrive on designing and building complete web applications that deliver exceptional user interactions. My versatile skill set enables me to understand the entire development process, allowing me to tackle complex challenges and deliver end-to-end solutions for web-based projects. Let's collaborate and create something amazing together!"
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Bugs](http://m)
 * ✉️  You can contact me at [balraj.dhakar2002@gmail.com](mailto:balraj.dhakar2002@gmail.com)
-* 🚀  I'm currently working on [Bugs](http://m)
+* 🚀  I'm currently working on -NA-
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Web based projects
 
