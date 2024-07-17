@@ -7,9 +7,9 @@ MERN Stack Developer
 "Hi, I'm Balraj, a passionate MERN stack developer with a love for crafting seamless web experiences. With expertise in both front-end and back-end technologies, I thrive on designing and building complete web applications that deliver exceptional user interactions. My versatile skill set enables me to understand the entire development process, allowing me to tackle complex challenges and deliver end-to-end solutions for web-based projects. Let's collaborate and create something amazing together!"
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [balraj.dhakar2002@gmail.com](mailto:balraj.dhakar2002@gmail.com)
-* 🚀  I'm currently working on -NA-
-* 🧠  I'm learning React.js
+* ✉️  You can contact me at [balrajdhakar2002@gmail.com](mailto:balrajdhakar2002@gmail.com)
+* 🚀  I'm currently working at Strategyz.inc
+* 🧠  I'm learning backend teachnologies
 * 🤝  I'm open to collaborating on Web based projects
 
 <a href="https://www.github.com/imnotBugs" target="_blank" rel="noreferrer"><img
