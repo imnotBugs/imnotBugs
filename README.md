@@ -8,7 +8,7 @@ MERN Stack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [balrajdhakar2002@gmail.com](mailto:balrajdhakar2002@gmail.com)
-* 🚀  I'm currently working at Strategyz.inc
+* 🚀  I'm currently open to work.
 * 🧠  I'm learning backend teachnologies
 * 🤝  I'm open to collaborating on Web based projects
 
