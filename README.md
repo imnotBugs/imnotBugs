@@ -4,8 +4,8 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 I’m a frontend-focused developer with strong expertise in React.js, dedicated to building dynamic, high-performance user interfaces. While I specialize in crafting pixel-perfect UIs with modern frameworks like Next.js, I also have hands-on experience integrating RESTful/GraphQL APIs into frontend applications for seamless data flow.
 
 What I Bring:
-  Frontend Mastery: Clean, responsive UIs with React, Redux, and Tailwind CSS.
-  API Integration: Proficient at connecting frontends with backend services (fetch, Axios, Apollo Client).
+  Frontend Mastery: Clean, responsive UIs with React, Redux, and CSS.
+  API Integration: Proficient at connecting frontends with backend services (fetch, Axios).
   UX-Centric Approach: Passion for intuitive designs, performance optimization, and accessibility.
 
 Though my primary strength lies in frontend development, I understand full-stack workflows enough to collaborate effectively with backend teams. Let’s build something user-friendly and visually stunning!
