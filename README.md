@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Balraj
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Balraj | Frontend Developer (MERN Stack Specialist)
 ==============================================================================================================================
-
-Balraj | Frontend Developer (MERN Stack Specialist)
 
 I’m a frontend-focused developer with strong expertise in React.js, dedicated to building dynamic, high-performance user interfaces. While I specialize in crafting pixel-perfect UIs with modern frameworks like Next.js, I also have hands-on experience integrating RESTful/GraphQL APIs into frontend applications for seamless data flow.
 
