@@ -1,10 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Balraj
 ==============================================================================================================================
 
-MERN Stack Developer
---------------------
+Balraj | Frontend Developer (MERN Stack Specialist)
 
-"Hi, I'm Balraj, a passionate MERN stack developer with a love for crafting seamless web experiences. With expertise in both front-end and back-end technologies, I thrive on designing and building complete web applications that deliver exceptional user interactions. My versatile skill set enables me to understand the entire development process, allowing me to tackle complex challenges and deliver end-to-end solutions for web-based projects. Let's collaborate and create something amazing together!"
+I’m a frontend-focused developer with strong expertise in React.js, dedicated to building dynamic, high-performance user interfaces. While I specialize in crafting pixel-perfect UIs with modern frameworks like Next.js, I also have hands-on experience integrating RESTful/GraphQL APIs into frontend applications for seamless data flow.
+
+What I Bring:
+  Frontend Mastery: Clean, responsive UIs with React, Redux, and Tailwind CSS.
+  API Integration: Proficient at connecting frontends with backend services (fetch, Axios, Apollo Client).
+  UX-Centric Approach: Passion for intuitive designs, performance optimization, and accessibility.
+
+Though my primary strength lies in frontend development, I understand full-stack workflows enough to collaborate effectively with backend teams. Let’s build something user-friendly and visually stunning!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [balrajdhakar2002@gmail.com](mailto:balrajdhakar2002@gmail.com)
